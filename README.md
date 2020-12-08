@@ -1,1 +1,3 @@
-# music-app-master
+# music-app
+search for lyrics and song info
+
